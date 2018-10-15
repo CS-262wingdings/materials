@@ -8,6 +8,6 @@ Pigeon Poll is a party game for groups of three or more that is socially engagin
  
 As a player, you are tasked with gauging the opinion of your opponents using body language, inside knowledge, and reverse psychology. Do you know your friends better than they know themselves?
 
- ***[Rules](https://github.com/CS-262wingdings/client/wiki/Instructions)***
+ ***[Rules](https://github.com/CS-262wingdings/materials/wiki/How-to-play)***
 
  ***[Non-functional Requirements](non-functional-requirements.md)***
