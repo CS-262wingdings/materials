@@ -11,3 +11,6 @@ As a player, you are tasked with gauging the opinion of your opponents using bod
  ***[Rules](https://github.com/CS-262wingdings/materials/wiki/How-to-play)***
 
  ***[Non-functional Requirements](non-functional-requirements.md)***
+ 
+ Below is a schematic of our class diagram:
+ ![alt text] (https://github.com/CS-262wingdings/materials/blob/master/Pigeon%20poll%20UML%20Class%20diagram.png)
