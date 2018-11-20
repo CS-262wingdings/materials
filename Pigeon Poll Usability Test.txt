@@ -1,0 +1,23 @@
+Usability test:
+
+quotes - what to ask the user
+parenthesis - what action is intended to happen
+
+"Would you mind starting a new game"
+(User navigates to main menu, clicks 'start game')
+
+"Could you try setting up the game?"
+(Our final product would probably have a "how to play" section, but if not implemented we can see what a user would do with no instruction)
+(The user should enter the name of each player)
+
+"Try following the instructions. What do you think the game wants you to do?"
+(At this point the game should go into full swing, and we can watch silently to see what areas the players struggle with)
+
+-note: currently the app does not allow the player to exit the game back to the main menu. If this is not implemented by the testing time, we may have to restart the app.
+
+(after a few rounds have been played)
+"Could you go back to the main menu?"
+
+"Try and make your own question. Upload it to the internet as well."
+
+-As we flesh out the menus, we will be able to ask them to delete a question, and download a question from the internet
