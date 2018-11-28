@@ -1,23 +1,36 @@
 Usability test:
+------
+Intro:
+--------
+Thanks for agreeing to do this usability test for our app! It's called Pigeon Poll, and we'd like to see first hand what it's like for non-developers to use the app.
 
-quotes - what to ask the user
-parenthesis - what action is intended to happen
+We are not testing you, we're testing the app. You literally cannot do anything incorrectly - if you can't figure out the app, it's our fault. Don't be afraid to give us your own critiques!
 
-"Would you mind starting a new game"
-(User navigates to main menu, clicks 'start game')
+We will be asking you to do different things with the app. Think out loud, tell us the things you see and do. Give us your questions and comments. We'll write them down, but we won't make them public. If, for any reason, you'd like to quit, just say so.
 
-"Could you try setting up the game?"
-(Our final product would probably have a "how to play" section, but if not implemented we can see what a user would do with no instruction)
-(The user should enter the name of each player)
+---------
+Background questions
+---------
+Have you ever played a party game with a cell phone? Have you ever played a party game with a TV or computer?
 
-"Try following the instructions. What do you think the game wants you to do?"
-(At this point the game should go into full swing, and we can watch silently to see what areas the players struggle with)
+Do you have any questions for us?
 
--note: currently the app does not allow the player to exit the game back to the main menu. If this is not implemented by the testing time, we may have to restart the app.
+---------
+TEST
+---------
+(give phone, show game icon)
+1. Start it up, and tell us what you think.
 
-(after a few rounds have been played)
-"Could you go back to the main menu?"
+2. Start a new game.
 
-"Try and make your own question. Upload it to the internet as well."
+(players should be seated in a circle around them, game should start eventually)
 
--As we flesh out the menus, we will be able to ask them to delete a question, and download a question from the internet
+3. (After a few rounds) Go back to the main menu.
+
+4. Make your own question. Upload it to the internet too.
+
+5. Try to download a question from the internet.
+
+6. Final observations - do you have any observations about the app? Would you consider using it?
+
+Thanks for testing our app! It's still in development, so we appreciate your help in adding polish and fixes. We will keep the data from this session private, but just between you and me, I had a great time.
